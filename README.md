@@ -130,4 +130,5 @@ This project is licensed under the **MIT License**.
 ## 📧 **Contact**
 For any questions, feel free to reach out via email:
 - 📧 sabusamson40@gmail.com
-- 🔗 [LinkedIn](www.linkedin.com/in/samson-sabu-8aab0a22b)
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/samson-sabu-8aab0a22b)
+
