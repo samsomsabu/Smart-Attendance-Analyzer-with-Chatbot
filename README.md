@@ -79,6 +79,13 @@ Here are some sample queries to ask the chatbot:
 
 ---
 
+## 📸 **Screenshots**
+| Visualizations                                      | Chatbot Query Example                                  |
+|-----------------------------------------------------|--------------------------------------------------------|
+| ![Visualizations](https://via.placeholder.com/400x250.png?text=Attendance+Visualization) | ![Chatbot Query](https://via.placeholder.com/400x250.png?text=Chatbot+Query+Example) |
+
+---
+
 ## 🧑‍💻 **Project Structure**
 ```
 📁 attendance-insights-chatbot
