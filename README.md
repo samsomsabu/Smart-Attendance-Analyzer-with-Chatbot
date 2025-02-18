@@ -79,10 +79,16 @@ Here are some sample queries to ask the chatbot:
 
 ---
 
-## 📸 **Screenshots**
-| Visualizations                                      | Chatbot Query Example                                  |
-|-----------------------------------------------------|--------------------------------------------------------|
-| ![Visualizations](https://via.placeholder.com/400x250.png?text=Attendance+Visualization) | ![Chatbot Query](https://via.placeholder.com/400x250.png?text=Chatbot+Query+Example) |
+## 📸 Screenshots
+
+### Visualizations
+| Attendance Patterns | Morning Skippers | Last Hour Skippers | Monthly Absences |
+|---------------------|------------------|--------------------|------------------|
+| ![Visualization 1](https://github.com/samsomsabu/Smart-Attendance-Analyzer-with-Chatbot/blob/main/Screenshot%202025-02-18%20120020.png) | ![Visualization 2](https://github.com/samsomsabu/Smart-Attendance-Analyzer-with-Chatbot/blob/main/Screenshot%202025-02-18%20120034.png) | ![Visualization 3](https://github.com/samsomsabu/Smart-Attendance-Analyzer-with-Chatbot/blob/main/Screenshot%202025-02-18%20120042.png) | ![Visualization 4](https://github.com/samsomsabu/Smart-Attendance-Analyzer-with-Chatbot/blob/main/Screenshot%202025-02-18%20120051.png) |
+
+### Chatbot Query Example
+![Chatbot Query](https://github.com/samsomsabu/Smart-Attendance-Analyzer-with-Chatbot/blob/main/Screenshot%202025-02-18%20120113.png)
+
 
 ---
 
