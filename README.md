@@ -120,11 +120,6 @@ torch==2.2.0
 
 ---
 
-## 📝 **License**
-This project is licensed under the **MIT License**.
-
----
-
 ## 📧 **Contact**
 For any questions, feel free to reach out via email:
 - 📧 sabusamson40@gmail.com
